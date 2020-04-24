@@ -15,44 +15,34 @@
       "id": 3
     },
     {
-      "completed": true,
-      "todoText": "6v4rl",
+      "completed": false,
+      "todoText": "l4w7",
       "id": 4
     },
     {
-      "completed": true,
-      "todoText": "ftzkp",
+      "completed": false,
+      "todoText": "a2ddt",
       "id": 6
     },
     {
       "completed": false,
-      "todoText": "nhw9",
+      "todoText": "6wdch",
       "id": 7
     },
     {
       "completed": false,
-      "todoText": "6waek",
+      "todoText": "qx0zm",
       "id": 8
     },
     {
       "completed": true,
-      "todoText": "4st4",
+      "todoText": "rjai",
       "id": 9
     },
     {
-      "title": "tes",
-      "body": "t",
+      "completed": false,
+      "todoText": "wify",
       "id": 10
-    },
-    {
-      "title": "tes",
-      "todoText": "t",
-      "id": 11
-    },
-    {
-      "completed": "true",
-      "todoText": "new task",
-      "id": 12
     }
   ]
 }

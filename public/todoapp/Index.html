@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Todo List</title>
+</head>
+<body>
+  <h1>Todos</h1>
+    <div id ="container">
+      <h1>My Todo List</h1>
+    <div>
+      <input type="text" name="getTodo" id="addTodoTextInput" />
+      <button id = 'get-button'>Get</button>
+      <hr>
+    </div>
+    <div id="output"></div>
+    <form id="addNewTodo">
+      <div class="form-group"> 
+        <input type="text" id="completed" placeholder="Is it completed?">
+      </div>
+      <div class="form-group">
+        <textarea id="body" class="form-control" placeholder="Description"></textarea>
+      </div>
+      <input type="submit" class="btn btn-secondary" value="Submit">
+      </form>
+    <div class = 'change-todo'>
+      <input id="changeTodoTextInput" type="text">
+      <button id="change-button">Change</button>
+      <button id = 'delete-button'>Delete Todo</button>
+    </div>
+    <ul></ul>
+ 
+    <script src = 'script.js'></script>
+   
+  </body>
+</html>
+
